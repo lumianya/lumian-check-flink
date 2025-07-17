@@ -38,7 +38,7 @@ jobs:
     - name: Download result.json artifact
       uses: dawidd6/action-download-artifact@v6
       with:
-        github_token: ${{secrets.GITHUB_TOKEN}}
+        github_token: ${{secrets.SITE_TOKEN}}
         branch: main
         name: 'result_json'
         path: './'
