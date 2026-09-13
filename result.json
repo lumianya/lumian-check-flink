@@ -1,0 +1,74 @@
+{
+    "timestamp": "2026-09-13 13:32:03",
+    "accessible_count": 10,
+    "inaccessible_count": 1,
+    "total_count": 11,
+    "link_status": [
+        {
+            "name": "纸鹿摸鱼处",
+            "link": "https://blog.zhilu.cyou/",
+            "latency": 0.31,
+            "fail_count": 0
+        },
+        {
+            "name": "张洪Heo",
+            "link": "https://blog.zhheo.com/",
+            "latency": 2.57,
+            "fail_count": 0
+        },
+        {
+            "name": "梦爱吃鱼",
+            "link": "https://blog.bsgun.cn/",
+            "latency": 1.19,
+            "fail_count": 0
+        },
+        {
+            "name": "APP喵",
+            "link": "https://www.appmiu.com/",
+            "latency": 1.83,
+            "fail_count": 0
+        },
+        {
+            "name": "面条实验室",
+            "link": "https://memo.miantiao.me",
+            "latency": 0.21,
+            "fail_count": 0
+        },
+        {
+            "name": "Akilarの糖果屋",
+            "link": "https://akilar.top/",
+            "latency": -1,
+            "fail_count": 1
+        },
+        {
+            "name": "CWorld Site",
+            "link": "https://cworld0.com/",
+            "latency": 0.29,
+            "fail_count": 0
+        },
+        {
+            "name": "FloatSheep",
+            "link": "https://blog.hesiy.cn",
+            "latency": 1.17,
+            "fail_count": 0
+        },
+        {
+            "name": "FGHRSH",
+            "link": "https://www.fghrsh.net/",
+            "latency": 4.06,
+            "fail_count": 0
+        },
+        {
+            "name": "DIYGod",
+            "link": "https://diygod.me/",
+            "latency": 0.41,
+            "fail_count": 0
+        },
+        {
+            "name": "wallleap",
+            "link": "https://myblog.wallleap.cn/#/",
+            "latency": 0.41,
+            "fail_count": 0
+        }
+    ]
+}
